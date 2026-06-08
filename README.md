@@ -15,6 +15,20 @@ Piyush@123 , Strong
 
 Cobra@Cyber2026#	, Very Strong
 
+## Screenshots :- 
+
+### Password 1 Result
+![Password 1](IMG-20260608-WA0006.jpg)
+
+### Password 2 Result
+![Password 2](IMG-20260608-WA0007.jpg)
+
+### Password 3 Result
+![Password 3](IMG-20260608-WA0008.jpg)
+
+### Password 4 Result
+![Password 4](IMG-20260608-WA0009.jpg)
+
 Observations:-
 Short and predictable passwords are weak.
 Adding uppercase letters improves password strength.
